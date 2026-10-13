@@ -1,0 +1,13 @@
+# Olist Data Engineering Project
+
+## Data
+
+This directory contains the datasets used in the Olist Data Engineering Project.
+
+### Raw Data
+
+The `raw/` directory stores the original Olist datasets before any cleaning or transformation.
+
+- `data/raw/`: Original raw datasets.
+
+**Note:** Raw datasets are kept unchanged to preserve the original source data.
